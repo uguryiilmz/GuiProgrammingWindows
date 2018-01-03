@@ -1,0 +1,13 @@
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\bin\Debug\UgurYilmazWPF.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\bin\Debug\UgurYilmazWPF.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\App.g.cs
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF_MarkupCompile.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF_MarkupCompile.lref
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\MainWindow.baml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF.g.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF.Properties.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF.csproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\UgurYilmazWPF\UgurYilmazWPF\obj\Debug\UgurYilmazWPF.pdb
