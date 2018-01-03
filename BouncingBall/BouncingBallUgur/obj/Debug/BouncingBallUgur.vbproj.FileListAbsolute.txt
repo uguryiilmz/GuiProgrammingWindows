@@ -1,0 +1,12 @@
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\obj\Debug\BouncingBallUgur.vbprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\obj\Debug\BouncingBallUgur.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\obj\Debug\BouncingBallUgur.vbproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\bin\Debug\BouncingBallUgur.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\bin\Debug\BouncingBallUgur.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\bin\Debug\BouncingBallUgur.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\obj\Debug\BouncingBallUgur.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\obj\Debug\BouncingBallUgur.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\obj\Debug\BouncingBallUgur.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\BouncingBallUgur\BouncingBallUgur\obj\Debug\BouncingBallUgur.Form1.resources
