@@ -1,0 +1,4 @@
+﻿  Win32Draw.cpp
+c:\users\pc\documents\visual studio 2015\projects\win32draw\win32draw\win32draw.cpp(203): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Win32Draw.vcxproj -> C:\Users\Pc\Documents\Visual Studio 2015\Projects\Win32Draw\Debug\Win32Draw.exe
+  Win32Draw.vcxproj -> C:\Users\Pc\Documents\Visual Studio 2015\Projects\Win32Draw\Debug\Win32Draw.pdb (Full PDB)
